@@ -6,3 +6,4 @@ export NVM_DIR="$HOME/.nvm"
 
 nvm install 23
 nvm use 23
+nvm alias default 23
